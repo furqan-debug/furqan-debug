@@ -26,12 +26,13 @@
 ### **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan-debug&theme=tokyonight&hide_border=true" height="170" />
+![Furqan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqan-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=furqan-debug&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -54,7 +55,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://furqanhabibsiddiqui.com"> Website</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/furqan-debug/"> LinkedIn</a>
-</p>
+<div align="center">
+  <a href="https://furqanhabibsiddiqui.com">Website</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/furqan-habib-siddiqui/">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/furqan-debug">GitHub</a>
+</div>
