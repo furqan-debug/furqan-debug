@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Furqan Habib Siddiqui 👋
 
-<!--
-**furqan-debug/furqan-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Engineer • Startup Founder • Open Source Contributor
 
-Here are some ideas to get you started:
+## GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqan-debug&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=furqan-debug)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-debug&layout=compact)
+
+## 🚀 Current Focus
+
+- Building Smartry
+- Contributing to Open Source
+- AI-powered SaaS products
+- Workforce automation systems
+
+## 🛠 Tech Stack
+
+- TypeScript
+- React
+- React Native
+- Supabase
+- PostgreSQL
+- AI APIs
+
+## 📌 Featured Projects
+
+### Smartry
+AI-powered workforce coordination platform for hospitality and service businesses.
+
+### Hisaab Dost
+AI-powered expense tracking application with receipt scanning and financial insights.
+
+### TrackOwl
+Productivity tracking and workforce analytics platform.
+
+## 🌱 Currently Learning
+
+- System Design
+- Open Source Development
+- Scalable SaaS Architecture
+
+## 📫 Connect
+
+- Website: furqanhabibsiddiqui.com
+- LinkedIn: linkedin.com/in/furqan-habib-siddiqui-a84a3332
