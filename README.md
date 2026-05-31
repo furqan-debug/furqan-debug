@@ -1,49 +1,25 @@
-# Hi, I'm Furqan Habib Siddiqui 👋
+# Furqan Habib Siddiqui
 
-AI Product Engineer • Startup Founder • Open Source Contributor
+I build software products from idea to deployment.
 
-## GitHub Stats
+Currently working on workforce automation, AI-powered business tools, and open-source contributions.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=furqan-debug&show_icons=true)
+### Building
 
-![GitHub Streak](https://streak-stats.demolab.com?user=furqan-debug)
+- Smartry — workforce coordination platform for hospitality and service businesses
+- TrackOwl — productivity monitoring and workforce analytics
+- Investing Sparkle — investment research platform focused on PSX
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-debug&layout=compact)
+### Interested In
 
-## 🚀 Current Focus
+- AI systems
+- Product engineering
+- Workflow automation
+- SaaS architecture
+- Open source
 
-- Building Smartry
-- Contributing to Open Source
-- AI-powered SaaS products
-- Workforce automation systems
+### Recent Activity
 
-## 🛠 Tech Stack
-
-- TypeScript
-- React
-- React Native
-- Supabase
-- PostgreSQL
-- AI APIs
-
-## 📌 Featured Projects
-
-### Smartry
-AI-powered workforce coordination platform for hospitality and service businesses.
-
-### Hisaab Dost
-AI-powered expense tracking application with receipt scanning and financial insights.
-
-### TrackOwl
-Productivity tracking and workforce analytics platform.
-
-## 🌱 Currently Learning
-
-- System Design
-- Open Source Development
-- Scalable SaaS Architecture
-
-## 📫 Connect
-
-- Website: furqanhabibsiddiqui.com
-- LinkedIn: linkedin.com/in/furqan-habib-siddiqui-a84a3332
+- Open source contributor at Anthropic repositories
+- Building production applications with TypeScript and Supabase
+- Exploring large-scale workforce coordination systems
