@@ -25,14 +25,14 @@
 
 ### **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan-debug&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-debug&layout=compact&theme=default&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furqan-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan-debug&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan-debug&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan-debug&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
 ---
 
