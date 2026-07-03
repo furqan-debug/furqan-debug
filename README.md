@@ -9,6 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://furqanhabibsiddiqui.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furqan-habib-siddiqui/)
 [![GitHub](https://img.shields.io/github/followers/furqan-debug?style=for-the-badge&logo=github)](https://github.com/furqan-debug)
+[![TrackOwl PRs](https://img.shields.io/github/issues-pr/furqan-debug/TrackOwl?style=for-the-badge&label=TrackOwl%20PRs&color=58A6FF)](https://github.com/furqan-debug/TrackOwl/pulls)
 
 </div>
 
